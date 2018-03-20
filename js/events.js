@@ -19,7 +19,9 @@ function pressIt(){
   });
 }
 
-function submitIt()
+function submitIt(){
+  
+}
 
 $(document).ready(function(){
 
